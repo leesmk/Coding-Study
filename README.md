@@ -1,5 +1,5 @@
 # 1st Coding Study
-** Lee Sung Mook **
+**Lee Sung Mook**
 
 ## 1. Git Dowmload
-> sdfdsaf
+> 실패인듯
